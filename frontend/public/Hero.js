@@ -22,7 +22,9 @@ const Hero = () => {
         <div className="container" ref={container}></div>
       </div>
       <div className="max-w-md mb-auto space-y-5">
-        <h1 className="text-5xl font-bold md:text-7xl">Hello. I’m Theelipan</h1>
+        <h1 className="text-5xl font-bold md:text-7xl">
+          Hello. Daniel Williams
+        </h1>
         <p className="tracking-wide leading-relaxed">Daniel Williams. </p>
       </div>
     </section>
