@@ -22,8 +22,14 @@ const Hero = () => {
         <div className="container" ref={container}></div>
       </div>
       <div className="max-w-md mb-auto space-y-5">
-        <h1 className="text-5xl font-bold md:text-7xl">Hello. I’m Theelipan</h1>
-        <p className="tracking-wide leading-relaxed">Daniel Williams. </p>
+        <h1 className="text-5xl font-bold md:text-7xl">Hello. I am Daniel</h1>
+        <p className="tracking-wide leading-relaxed">
+          Daniel is a dedicated web developer who specializes in developing
+          full-stack web applications using practical frameworks. He's
+          passionate about solving problems for others. A good solution to
+          Daniel usually requires a dose of creativity that then requires more
+          effort to adapt and perfect.
+        </p>
       </div>
     </section>
   );
